@@ -3,8 +3,9 @@
 
 	<string name="hello">Hello World, MessageActivity!</string>
 	<string name="app_name">SMAC_EPU</string>
-	<string name="main_empty_list">There is no recent conversation, write new message
-		to start one.</string>
+	<string name="main_empty_list">Messenger writer</string>
 	<string name="speak">Speak</string>
+	<string name="send">Gửi</string>
+	<string name="hint1">Nhập câu hỏi</string>
 
 </resources>
